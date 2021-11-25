@@ -14,6 +14,7 @@ You can freely edit the input text file however you'd like for your benefit. Ren
 
 ## Deployment
 
+https://replit.com/@JesseETI/text-formatter - test it and fork it online at this Repl.it link 
 
 ## Built With
 
